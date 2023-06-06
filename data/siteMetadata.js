@@ -8,7 +8,7 @@ const siteMetadata = {
   siteUrl: 'https://kyrie.vercel.app/',
   siteRepo: 'https://github.com/LinKenCong/kyrie-blog',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  image: '/static/images/avatar.jpeg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'linkencong@foxmail.com',
   github: 'https://github.com/LinKenCong',
