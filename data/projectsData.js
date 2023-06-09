@@ -1,19 +1,9 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
-  },
-  {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'USDT Swap Dapp',
+    description: `This platform provides a corresponding solution for sellers and Token issuers who wish to sell Tokens at a fixed price, achieving more efficient, rapid, and sustainable Token trading.`,
+    imgSrc: '/static/images/USDTSwapDapp.jpg',
+    href: 'https://github.com/LinKenCong/dapp-usdt-swap',
   },
 ]
 
